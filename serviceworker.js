@@ -1,1 +1,0 @@
-importScripts("https://denis99811githubio.push.world/https.serviceworker.js");
